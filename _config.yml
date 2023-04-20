@@ -24,3 +24,16 @@ logo: /assets/images/Mustafizur.jpg
 
 # Build settings
 remote_theme: mmistakes/so-simple-theme@3.2.0
+
+skin: "/assets/css/skins/dark.scss"
+
+footer_links:
+  - title: Mail
+    url: mailto:mustafizz996@gmail.com
+    icon: fas fa-envelope-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mustafizur-rahman-868836194/
+    icon: fab fa-linkedin
+  - title: GitHub
+    url: https://github.com/MustafizSaadi
+    icon: fab fa-github-square
