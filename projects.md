@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Mustafizur Rahman|Projects"
+title:  "Projects"
 permalink: /projects/
 ---
 <h3> Undergraduate Thesis </h3>
