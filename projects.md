@@ -43,12 +43,13 @@ A web platform for Dhaka university students and medical staff to communicate wi
 
 **[Object Distinguishing and arranging System](https://github.com/tishat-ahasan/10_22_microcontroller_project)**  
 
-Designed and constructed an automated machine using Arduino and OpenCV library that can detect and arrange the similar objects in a basket.
+An automated machine is designed and constructed using Arduino and OpenCV library. This machine can detect and arrange the similar objects in a basket.
 <ul>
     <li>Language(s): Python, C++ </li>
     <li>Framework(s): Arduino, OpenCV</li>
     <li>Responsibility(s): Contributed to hardware design and software development of the machine</li>
 </ul>
+[Demonstration](https://youtu.be/XIEZoDLEcUc)
 
 **[MedAdvisor](https://github.com/MustafizSaadi/MedAdvisor4)**  
 
