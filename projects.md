@@ -67,8 +67,6 @@ An android app that will help people to understand different kinds of diseases a
 **[Admission Help System](https://github.com/defender01/admissionHelpSystem)**  
 
 A Desktop Application that helps undergrad admission seeking students to find information about different public universities. It also recommends suitable public universities to students according to their information.
-    {This software is built on java programs and as a database file management system is used.
-
 <ul>
     <li>Language(s): Java </li>
     <li>Framework(s): Java Swing</li>
