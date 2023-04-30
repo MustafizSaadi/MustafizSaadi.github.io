@@ -15,11 +15,11 @@ of ECBS, which assigns sub-optimal bound to each agent considering the total num
 with other agents. The improvements were tested on benchmark maps both qualitatively and quantitively and they were found to
 be reducing the runtime of the Sub-Optimal MAPF algorithms without compromising the solution quality.  
 **Domain:** Multi-Agent Systems, Path Finding Algorithms  
-**Group Member** Md. Ahasanul Alam
+**Group Member** Md. Ahasanul Alam <br>
 **Supervisor:** Dr. Ismat Rahman, Associate Professor, CSE, University of Dhaka  
 
 
-<h3> Projects </h3>
+<h3> Personal Project </h3>
 
 **[Gallery Application]**  
 
@@ -30,6 +30,8 @@ A desktop application that helps the user to upload an image from a local drive,
     <li>Database: SQLite</li>
     <li>Responsibility(s): Design and development of the application</li>
 </ul>
+
+<h3> Academic Projects </h3>
 
 **[Du Doctor](https://github.com/tishat-ahasan/DU-Doctor)**  
 
