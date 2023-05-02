@@ -1,5 +1,6 @@
 # Welcome to the website of Mustafizur Rahman
 
-This is a repo containing the portfolio website for me (Mustafizur Rahman). It was created using jekyll.
+This is a repo containing the portfolio website for me (Mustafizur Rahman). It is created using jekyll.
 
-#Add build steps
+
+[![Build](https://github.com/MustafizSaadi/mustafizsaadi.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/MustafizSaadi/mustafizsaadi.github.io/actions/workflows/pages/pages-build-deployment)
