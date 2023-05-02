@@ -5,5 +5,4 @@
 layout: home
 ---
 <h1>About me</h1>
-A strong engineering professional with a Bachelor's degree in Computer Science and Engineering from the University of Dhaka. Currently, working as a software engineer at [Enosis Solutions](https://www.enosisbd.com/). In addition to that, a hard‑working, passionate, and enthusiastic desktop application developer with expertise in Delphi, .NET, and Qt frameworks. Committed to devising efficient solutions for challenging problems and tasks within time constraints and learning new technologies whenever necessary. A team member who loves to work in a cooperative and coordinated environment.
-
+I am a software engineer and currently working at [Enosis Solutions](https://www.enosisbd.com/) for approximately two years. I have completed my Bachelor's degree in Computer Science and Engineering from the University of Dhaka. I am a hard‑working, passionate, and enthusiastic desktop application developer with expertise in Delphi, .NET, and Qt frameworks. I am committed to devising efficient solutions for challenging real-world problems and tasks within time constraints and learning new technologies whenever necessary. Being a team member, I love to work in a cooperative and coordinated environment. In my leisure time, I watch cricket and documentaries on history and politics. 
