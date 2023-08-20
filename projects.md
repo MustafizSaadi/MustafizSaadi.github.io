@@ -31,6 +31,17 @@ A desktop application that helps the user to upload an image from a local drive,
     <li>Responsibility(s): Design and development of the application</li>
 </ul>
 
+**[Devices & Services Manager App](https://shorturl.at/pSYZ6)**  
+
+A desktop application based on Windows OS to manage all the devices and services that are installed in the machine. A user can enable/disable any device and also the applications responses with the pluging/unpluging of devices. In addition to that, a user can mark a service for auto-restart whenever the marked service stops.
+Moreover, through a status bar, the user is notified whenever any operation takes place in the application. 
+<ul>
+    <li>Language(s): C++, QML </li>
+    <li>Framework(s): Qt</li>
+    <li>Misc: Windows APIs</li>
+    <li>Responsibility(s): Design and development of the application</li>
+</ul>
+
 <h3> Academic Projects </h3>
 
 **[Du Doctor](https://github.com/tishat-ahasan/DU-Doctor)**  

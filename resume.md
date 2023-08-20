@@ -5,4 +5,4 @@ permalink: /resume/
 ---
 
 **[Academic CV](https://shorturl.at/chwB1)** <br>
-**[Resume](https://shorturl.at/ilntv)** <br>
+**[Resume](https://shorturl.at/cfqzD)** <br>
