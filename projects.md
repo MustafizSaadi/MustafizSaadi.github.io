@@ -42,6 +42,15 @@ Moreover, through a status bar, the user is notified whenever any operation take
     <li>Responsibility(s): Design and development of the application</li>
 </ul>
 
+**[Todo Management App](https://github.com/MustafizSaadi/Todo-Management)**  
+
+A web application application for managing todo lists. A user can add/update/delete todo lists.
+<ul>
+    <li>Language(s): Typescript </li>
+    <li>Framework(s): React</li>
+    <li>Responsibility(s): Design and development of the application</li>
+</ul>
+
 <h3> Academic Projects </h3>
 
 **[Du Doctor](https://github.com/tishat-ahasan/DU-Doctor)**  
