@@ -44,10 +44,20 @@ Moreover, through a status bar, the user is notified whenever any operation take
 
 **[Todo Management App](https://github.com/MustafizSaadi/Todo-Management)**  
 
-A web application application for managing todo lists. A user can add/update/delete todo lists.
+A web application for managing todo lists. A user can add/update/delete todo lists.
 <ul>
     <li>Language(s): Typescript </li>
     <li>Framework(s): React</li>
+    <li>Responsibility(s): Design and development of the application</li>
+</ul>
+
+**[Flower Store]**  
+
+A web application for a flower store. Seller can display all the available flowers and items for sell. A user can add the flowers/items to cart. A user can also update/delete the carts and eventually can also buy the items.
+<ul>
+    <li>Language(s): Typescript </li>
+    <li>Framework(s): NodeJS, React</li>
+    <li>Misc: Sequelize, PostgreSql</li>
     <li>Responsibility(s): Design and development of the application</li>
 </ul>
 
