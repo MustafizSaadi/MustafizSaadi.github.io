@@ -61,6 +61,25 @@ A web application for a flower store. Seller can display all the available flowe
     <li>Responsibility(s): Design and development of the application</li>
 </ul>
 
+**[Rent-A-Car Backend]**  
+
+Created backend of a Rent-A-Car web application. Admin users can login and place order for cars for specific dates if the cars are available. Users will receive emails for order placement and gets reminder for order at the booking day.
+<ul>
+    <li>Language(s): Typescript </li>
+    <li>Framework(s): NodeJS</li>
+    <li>Misc: Sequelize, PostgreSql</li>
+    <li>Responsibility(s): Database design and development of the backend application</li>
+</ul>
+
+**[DevOps Activities]**  
+
+Deployment of a dockerized wordpress application in kubernetes infrustructure with Redis cache and PostgreSql database. Integrated Datadog as a sidecar manner with the wordpress application to monitor the application centrally.
+<ul>
+    <li>Tools: Kubernetes, Docker, Datadog </li>
+    <li>Responsibility(s): Design and development of the infrustructure. Deployment of the application and datadog monitoring tool</li>
+</ul>
+
+
 <h3> Academic Projects </h3>
 
 **[Du Doctor](https://github.com/tishat-ahasan/DU-Doctor)**  
