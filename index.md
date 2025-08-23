@@ -5,4 +5,10 @@
 layout: home
 ---
 <h1>About me</h1>
-I am a software engineer with 3+ years of industry experience. I am currently working at [Enosis Solutions](https://www.enosisbd.com/) as a Senior Software Engineer. I have completed my Bachelor's degree in Computer Science and Engineering from the University of Dhaka. I have expertise in developing desktop applications with frameworks like Qt, MFC, .NET, and Delphi. I also have experience in developing web applications with .NET Core as backend and ReactJS as front-end frameworks. I am committed to devising efficient solutions for challenging real-world problems, completing tasks within time constraints and learning new technologies whenever necessary. Being a team member, I love to work in a cooperative and coordinated environment. In my leisure time, I watch cricket and documentaries on history and politics. 
+I am a Senior DevOps Engineer at [Enosis Solutions](https://www.enosisbd.com/) with over four years of prior experience in software development. This dual background allows me to bring a unique perspective to the software development lifecycle, focusing on building robust, scalable, and automated systems.
+
+I specialize in automating the software development lifecycle with CI/CD pipelines. My software engineering background is in developing desktop applications with frameworks like Qt, MFC, .NET, and Delphi, as well as web applications using .NET Core and ReactJS.
+
+I am driven to devising efficient solutions for complex problems, consistently meeting project deadlines, and enthusiastically learning new technologies to stay ahead in a dynamic industry.
+
+When I'm not working, I enjoy watching cricket and documentaries on history and politics.

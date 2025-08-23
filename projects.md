@@ -71,12 +71,29 @@ Created backend of a Rent-A-Car web application. Admin users can login and place
     <li>Responsibility(s): Database design and development of the backend application</li>
 </ul>
 
+**[gradio_spreadsheetcomponent](https://huggingface.co/spaces/Mustafiz996/gradio_spreadsheetcomponent)**
+
+Developed a custom Gradio (Python library) component for answering questions about spreadsheets using the Google TAPAS model. This library can be added as a UI component in python applications. Utilizing the component, a user can upload any excel file and ask any question about that. The library will answer the question.
+
+<ul>
+    <li>Language(s): Python </li>
+    <li>Library(s): Gradio</li>
+    <li>Misc: Google Tapas Model</li>
+    <li>Responsibility(s): Design and development of the library</li>
+</ul>
+
 **[DevOps Activities]**  
 
 Deployment of a dockerized wordpress application in kubernetes infrustructure with Redis cache and PostgreSql database. Integrated Datadog as a sidecar manner with the wordpress application to monitor the application centrally.
 <ul>
     <li>Tools: Kubernetes, Docker, Datadog </li>
     <li>Responsibility(s): Design and development of the infrustructure. Deployment of the application and datadog monitoring tool</li>
+</ul>
+
+Created a Jenkins CI/CD pipeline for deploying a nodejs application utilizing helm and the application is exposed through ingress nginx. The nodejs application is dockerized and pushed to a dockerhub private registry. The image is pulled and deployed through helm from the private registry.
+<ul>
+    <li>Tools: Jenkins, Docker, Kubernetes, Helm </li>
+    <li>Responsibility(s): Design and development of the CI/CD pipeline and the infrustructure. Deployment of the application and expose utilizing ingress nginx reverse proxy.</li>
 </ul>
 
 
