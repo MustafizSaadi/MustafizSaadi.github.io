@@ -71,7 +71,7 @@ Created backend of a Rent-A-Car web application. Admin users can login and place
     <li>Responsibility(s): Database design and development of the backend application</li>
 </ul>
 
-**[gradio_spreadsheetcomponent](https://huggingface.co/spaces/Mustafiz996/gradio_spreadsheetcomponent)**
+**[Gradio Spreadsheet Component](https://huggingface.co/spaces/Mustafiz996/gradio_spreadsheetcomponent)**
 
 Developed a custom Gradio (Python library) component for answering questions about spreadsheets using the Google TAPAS model. This library can be added as a UI component in python applications. Utilizing the component, a user can upload any excel file and ask any question about that. The library will answer the question.
 
