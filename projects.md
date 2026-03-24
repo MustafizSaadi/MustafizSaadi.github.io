@@ -96,6 +96,12 @@ Created a Jenkins CI/CD pipeline for deploying a nodejs application utilizing he
     <li>Responsibility(s): Design and development of the CI/CD pipeline and the infrustructure. Deployment of the application and expose utilizing ingress nginx reverse proxy.</li>
 </ul>
 
+Provision AWS resources (ALB, VPC, Subnets, Security groups, and EC2) utilizing CloudFormation tools to host an apache server. Install and configure apache servers for dev and prod utilizing Chef. Create an AMI with the preconfigured apache utilizing packer.
+<ul>
+    <li>Tools: CloudFormation, Chef, Packer </li>
+    <li>Responsibility(s): Design and development of the infrustructure. Expose apache server utilizing ALB.</li>
+</ul>
+
 
 <h3> Academic Projects </h3>
 
