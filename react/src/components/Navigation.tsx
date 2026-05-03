@@ -1,3 +1,4 @@
+import { Menu } from 'lucide-react';
 import Link from 'next/link';
 
 const navigation = [
@@ -10,16 +11,24 @@ const navigation = [
 
 export default function Navigation() {
   return (
-    <nav className="bg-gray-800 text-white p-4">
-      <ul className="flex space-x-4">
-        {navigation.map((item) => (
-          <li key={item.title}>
-            <Link href={item.url} className="hover:underline">
-              {item.title}
-            </Link>
-          </li>
-        ))}
-      </ul>
+    <nav className="flex justify-center px-8 py-6 max-w-5xl mx-auto">
+      {/* Mobile Menu Button - Absolute positioned so it doesn't shift the center */}
+      <button className="absolute left-8 md:hidden text-gray-400 hover:text-white transition-colors">
+        <Menu />
+      </button>
+
+      {/* Navigation Links */}
+      <div className="flex items-center text-sm uppercase tracking-widest font-medium">
+        <ul className="flex space-x-8"> {/* Increased space-x for a cleaner look */}
+          {navigation.map((item) => (
+            <li key={item.title}>
+              <Link href={item.url} className="text-gray-400 hover:text-white transition-colors">
+                {item.title}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </div>
     </nav>
   );
 }
