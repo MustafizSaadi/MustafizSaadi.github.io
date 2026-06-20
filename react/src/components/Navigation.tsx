@@ -6,6 +6,7 @@ const navigation = [
   { title: 'Projects', url: '/projects' },
   { title: 'Publications', url: '/publications' },
   { title: 'Online Certificates', url: '/online_certificates' },
+  { title: 'Professional Experience', url: '/professional_experience' },
   { title: 'Resume', url: '/resume' },
 ];
 
