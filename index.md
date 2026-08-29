@@ -5,7 +5,7 @@
 layout: home
 ---
 <h1>About me</h1>
-I am a Senior DevOps Engineer at [Enosis Solutions](https://www.enosisbd.com/) with over four years of prior experience in software development. This dual background allows me to bring a unique perspective to the software development lifecycle, focusing on building robust, scalable, and automated systems.
+I am a passionate DevOps engineer with over five years of software industry experience. I am currently working at [Enosis Solutions](https://www.enosisbd.com/) as a Senior DevOps Engineer. Previously, I contributed in software development for more than four years in the same organization. This dual background allows me to bring a unique perspective to the software development lifecycle, focusing on building robust, scalable, and automated systems.
 
 I specialize in automating the software development lifecycle with CI/CD pipelines including provisioning and configuring infrastructure utilizing IaC tools. My software engineering background is in developing desktop applications with frameworks like Qt, MFC, .NET, and Delphi, as well as web applications using .NET Core and ReactJS.
 

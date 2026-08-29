@@ -82,6 +82,17 @@ Developed a custom Gradio (Python library) component for answering questions abo
     <li>Responsibility(s): Design and development of the library</li>
 </ul>
 
+**[Educational institution management website](http://161.118.176.115/home/)
+A web application for digitizing an academic institution’s public presence, operations, student management, communication, and financial processes. All these features are controlled through a centralized administration panel without requiring any technical knowledge from the staff.
+<ul>
+    <li>Language(s): Python, HTML, CSS, JS </li>
+    <li>Framework(s): Django</li>
+    <li>Library(s): unfold, tailwind css</li> 
+    <li>Database: SQLite</li>
+    <li>Cloud Platform: Oracle </li>
+    <li>Responsibility(s): Lead the design, development and deployment of the application.</li>
+</ul>
+
 **[DevOps Activities]**  
 
 Deployment of a dockerized wordpress application in kubernetes infrustructure with Redis cache and PostgreSql database. Integrated Datadog as a sidecar manner with the wordpress application to monitor the application centrally.
